@@ -1,2 +1,2 @@
 # ts-bootstap
-Bootstrap a ts project!
+Setting up a Typescript Project takes time, Bootstrap a ts project!
